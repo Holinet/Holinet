@@ -47,5 +47,4 @@
   <a href = "https://vk.com/id438189756"><img src="https://img.icons8.com/color/48/000000/vk-com.png"/></a>
   <a href = "https://instagram.com/ast1nell/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
   <a href = "https://t.me/holynet"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
-  <a href = "https://www.codewars.com/users/Holinet"><img src="https://www.codewars.com/users/Holinet/badges/large"/></a>
 </p>
