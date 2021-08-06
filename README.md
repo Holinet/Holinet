@@ -6,8 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Crypto Tracker
- [Crypto Tracker]()
+- 🔭 I’m currently working on **[Crypto Tracker]()**
 
 - 🌱 I’m currently learning **JS Algorithms.**
 
